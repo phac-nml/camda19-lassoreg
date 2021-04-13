@@ -1,0 +1,17 @@
+Code	City	Country	Continent	Latitude	Longitude	ContinentShort
+AKL	Auckland	New Zealand	Oceania	-36.848461	174.763336	O
+BER	Berlin	Germany	Europe	52.520008	13.404954	E
+BOG	Bogota	Columbia	SouthA	3.420497	-73.166783	Am
+HAM	Hamilton	New Zealand	Oceania	-37.788101	175.276993	O
+HGK	Hong Kong	China	Asia	22.21698	113.54702	As
+ILR	Ilorin	Nigeria	Africa	8.5	4.55	Af
+LON	London	U.K.	Europe	51.507322	-0.127647	E
+MAR	Marsille	France	Europe	46.698481	2.549047	E
+NYC	New York	U.S.A.	NorthA	40.68295	-73.9708	Am
+OFA	Offa	Nigeria	Africa	8.15	4.71667	Af
+PXO	Porto	Portugal	Europe	41.206541	-8.389829	E
+SAC	Sacramento	U.S.A.	NorthA	38.57873	-121.466786	Am
+SAO	SAO Paulo	Brasil	SouthA	-23.550651	-46.633382	Am
+SOF	Sofia	Bulgaria	Europe	42.696491	23.32601	E
+STO	Stockholm	Sweden	Europe	59.329323	18.068581	E
+TOK	Tokyo	Japan	Asia	35.689487	139.691711	As

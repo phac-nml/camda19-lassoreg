@@ -1,0 +1,9 @@
+Code	City	Country	Continent	Latitude	Longitude	ContinentShort
+RDJ	Rio de Janerio	Brasil	SouthA	-22.9	-43.18333333	Am
+SDC	Santiago de Chile	Chile	SouthA	-33.45	-70.66666667	Am
+KIE	Kiev	Ukraine	Europe	50.45	30.51666667	E
+BRI	Brisbane	Australia	Oceania	-27.46666667	153.0166667	O
+VIE	Vienna	Austria	Europe	48.2	16.36666667	E
+DOH	Doha	Qatar	Asia	25.28333333	51.53333333	As
+PAR	Paris	France	Europe	48.85	2.35	E
+OSL	Oslo	Norway	Europe	59.91666667	10.73333333	E
