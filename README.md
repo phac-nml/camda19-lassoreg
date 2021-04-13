@@ -1,7 +1,7 @@
-# CAMDA19-LassoReg
+# CAMDA19-LassoReg 
 
 ### CAMDA2019 manuscript: 
-<p> [DOI: 10.21203/rs.3.rs-15502/v1](https://biologydirect.biomedcentral.com/articles/10.1186/s13062-020-00287-y) </p>
+ DOI: [10.21203/rs.3.rs-15502/v1](https://biologydirect.biomedcentral.com/articles/10.1186/s13062-020-00287-y/) 
 <p> "Systematic evaluation of supervised machine learning for sample origin prediction using metagenomic sequencing data" </p>
 <p> Julie Chih-yu Chen, Andrea D. Tyler </p>
 
